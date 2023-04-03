@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProcessBack\ProcessBack.csproj" />
+    <ProjectReference Include="..\UploadCommon\ProcessCommon.csproj" />
   </ItemGroup>
 
   <ItemGroup>
